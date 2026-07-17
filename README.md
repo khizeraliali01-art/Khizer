@@ -1,1 +1,2 @@
 # Khizer
+Python calculator
